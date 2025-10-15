@@ -1,0 +1,75 @@
+/* General Styling */
+     body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: white;
+  color: #333;
+  line-height: 1.6;
+  text-align: center;
+    }
+
+    /*Header*/
+    header {
+    background: #81c784;
+    color:white;
+    padding:30px;
+    text-align:center;
+     }
+    header h1{
+    margin: 10px  0;
+    }
+     header p{
+    font-size:18px;
+    }
+    header img {
+        border-radius:60%;
+        width: 120px;
+        height:120px;
+        margin-top:15px;
+        border: 3px solid white;
+      }
+
+      /*Section*/
+      section {
+        color:black;
+    max-width: 800px;
+    margin:50px auto;
+    padding:20px 30px;
+    background-color: lightblue;
+
+
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba;
+}
+
+section h2 {
+    max-width:900px;
+    margin:50px auto;
+    padding:20px;
+}
+
+      /*Skills & project List*/
+          ul{
+        list-style-type: style type none;
+        padding: 0;
+        }
+        li {
+        margin:8px 0;
+        font-weight:bold;
+        list-style: none;
+        }
+
+         /*Contact Links*/
+         a{
+        color:aqua;
+        text-decoration:underline;
+       }
+
+       /*Footer*/
+       footer {
+        background:burlywood;
+        color:white;
+        padding: 10px;
+        margin-top: 20px;
+           }
